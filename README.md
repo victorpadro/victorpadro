@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ansible, Terraform, Powershell, YAML, etc.
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me vpadro@gmail.com
-- 😄 Pronouns: Learner and please don't tell me I can't do it, I double dare you.
+- 😄 Pronouns: He/Him - Learner and please don't tell me I can't do it, I double dare you.
 - ⚡ Fun fact: I used to work as a construction worker and welder beacuse I left my place with what I had on myself back then, now work for a fortune 100 company as a Senior Infra Engineer.
 
 <!---
